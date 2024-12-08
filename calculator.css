@@ -1,0 +1,27 @@
+#calculator {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+    margin: 30px;   
+}
+#display {
+    margin: 10px;
+}
+.btn {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+.btnClear {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+.btnSubmit {
+    width: 170px;
+    height: 30px;
+    margin: 5px;
+}
+.btn_container {
+    margin: 5px;
+}
